@@ -6,5 +6,6 @@ sudo tee -a ~/.bashrc <<-EOF
 
 # MINIKUBE ALIAS
 alias kubectl="minikube kubectl --"
+alias k="kubectl"
 
 EOF

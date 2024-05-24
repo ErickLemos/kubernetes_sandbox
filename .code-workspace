@@ -1,0 +1,13 @@
+{
+    "extensions": {
+        "recommendations": [
+            "rogalmic.bash-debug",
+            "ms-azuretools.vscode-docker",
+            "hashicorp.hcl",
+            "hashicorp.sentinel",
+            "hashicorp.terraform",
+            "ms-kubernetes-tools.vscode-kubernetes-tools",
+            "redhat.vscode-yaml"
+        ]
+    }
+}
